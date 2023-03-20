@@ -1,0 +1,5 @@
+Number of Accesses: 109990
+Number of Hits: 106221
+Number of Misses: 3769
+Number of write_back: 839
+Cache Hit Ratio 0.965733
